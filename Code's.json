@@ -3,20 +3,6 @@
     "id": "$ExtendedRank_K012",
     "type": "translation",
     "*": {
-      "settings_shaderconfig":"Color Pallete",
-      "settings_shadertype_normal":"Classic",
-      "settings_shadertype_fancy":"Colorfull",
-      "settings_shadertype_xfancy":"Bright",
-      "settings_shader":"Shader",
-      "shader_smooth":"Smooth",
-      "shader_lol":"Old TV Screen",
-      "shader_invert":"Inverted",
-      "shader_default2":"Default",
-      "shader_default":"Classic",
-      "shader_colorful":"Colorful",
-      "shader_gray":"Depressing",
-      "shader_fancy":"Very Smooth",
-    
       //Rank
       "features_getrank": " Get Next settlement Size ",
       "dialog_getrank_text": " You can unlock this settlement size immediately, if you want to. ",
@@ -38,6 +24,7 @@
       "draft_rnk_city_small_title": " Small Town ",
       "draft_rnk_city_medium_title": " Town ",
       "draft_rnk_city_big_title": " Big Town ",
+      "draft_rnk_city_large_title": " Large Town ",
       "draft_rnk_metropolis_small_title": " Small Regency ",
       "draft_rnk_metropolis_title": " Regency ",
       "draft_rnk_metropolis_big_title": " Big Regency ",
